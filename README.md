@@ -39,12 +39,19 @@ This project is a puzzle game taking place in a dystopian , scientific world. Ma
 
 </table>
 
-<h1 align="center">──▄▀▀▀▄▄▄▄▄▄▄▀▀▀▄───
-───█▒▒░░░░░░░░░▒▒█───
-────█░░█░░░░░█░░█────
-─▄▄──█░░░▀█▀░░░█──▄▄─
-█░░█─▀▄░░░░░░░▄▀─█░░█
-
+<h1 align="center">
+       (()__(()
+     /       \ 
+    ( /    \  \
+     \ o o    /
+     (_()_)__/ \             
+    / _,==.____ \
+   (   |--|      )
+   /\_.|__|'-.__/\_
+  / (        /     \ 
+  \  \      (      /
+   )  '._____)    /    
+(((____.--(((____/
 </h1>
 
 <!--START_SECTION:activity-->

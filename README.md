@@ -1,7 +1,8 @@
-![Konstantinos Mylonas]()
+<h1> Konstantinos Mylonas </h1>
 
 
 <p align="center"><b> <a> Studying Game Development @ Sunderland Univesity, UK 🌟 </a></b></p>
+<p align="center"><b> <a> Mostly using Unity with C# to create games 🕹 </a></b></p>
 
 
 <p align="center">
@@ -22,8 +23,7 @@
 
 ---
 
-<h4 align="center">Repositories</h4>
-<h1 align="center">❝</h1>
+<h4 align="center">Latest Repositories</h4>
 
 <table>
   <tr>
@@ -31,7 +31,7 @@
     <th>Message</th>
   </tr>
   <tr>
-    <td><a target="_blank" href="https://github.com/KonstantinosMy/CET345-Final">CET 345</a></td>
+    <td><a target="_blank" href="https://github.com/KonstantinosMy/CET345-Final">CET-345</a></td>
     <td> This is my final project's version control repo for CET 345. Thanks for checking it out!
 
 This project is a puzzle game taking place in a dystopian , scientific world. Mainly utilizing Portals. 😎</td>
@@ -50,10 +50,9 @@ This project is a puzzle game taking place in a dystopian , scientific world. Ma
 </h1>
 
 <!--START_SECTION:activity-->
-1. 🗣
-2. 🎉
-3. ❗️ 
-4. 🎉 
-5. 💪
+1. C#
+2. Python
+3. C++
+4. SQL 
 <!--END_SECTION:activity-->
 

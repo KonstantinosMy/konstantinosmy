@@ -1,7 +1,7 @@
-![Eddie Jaoude](https://user-images.githubusercontent.com/624760/97735079-c7f2d780-1ad1-11eb-84b6-52740912a1bc.jpg)
+![Konstantinos Mylonas]()
 
 
-<p align="center"><b>Part of the <a href = "https://stars.github.com/profiles"> GitHub Stars program and Star of 2020 🌟 </a></b></p>
+<p align="center"><b> <a> Studying Game Development @ Sunderland Univesity, UK 🌟 </a></b></p>
 
 
 <p align="center">

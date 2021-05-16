@@ -1,7 +1,7 @@
 <h1> Konstantinos Mylonas </h1>
 
 
-<p align="center"><b> <a> Studying Game Development @ Sunderland Univesity, UK 🌟 </a></b></p>
+<p align="center"><b> <a> Currently studying Game Development @ Sunderland Univesity, UK 🌟 </a></b></p>
 <p align="center"><b> <a> Mostly using Unity with C# to create games 🕹 </a></b></p>
 
 

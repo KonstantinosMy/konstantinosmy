@@ -5,8 +5,8 @@
 
 
 <p align="center">
-  <a href="https://github.com/KonstantinosMy?tab=repositories">
-    <img src="https://img.shields.io/github/followers/eddiejaoude?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  <a href="https://www.youtube.com/channel/UCqSpmqjhILT3GrIRUngOBxgs">
+    <img src="https://img.shields.io/youtube/channel/views/UCHmJzyRNyXVBhVh8_58FIVA?color=red&label=YouTube&style=for-the-badge" />
   </a>
 
 

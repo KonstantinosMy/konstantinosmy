@@ -2,7 +2,8 @@
 
 
 <p align="center"><b> <a> Currently studying Game Development @ Sunderland Univesity, UK 🌟 </a></b></p>
-<p align="center"><b> <a> Mostly using Unity with C# to create games 🕹 </a></b></p>
+<p align="center"><b> <a> Love coming up with game ideas and bringing them to life 🕹 </a></b></p>
+<p align="center"><b> <a> Unity & C# are what I mostly use ⚙ </a></b></p>
 
 
 <p align="center">
@@ -27,8 +28,8 @@
 
 <table>
   <tr>
-    <th>Author</th>
-    <th>Message</th>
+    <th>Project</th>
+    <th>Details</th>
   </tr>
   <tr>
     <td><a target="_blank" href="https://github.com/KonstantinosMy/CET345-Final">CET-345</a></td>

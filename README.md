@@ -35,7 +35,7 @@
     <td><a target="_blank" href="https://github.com/KonstantinosMy/CET345-Final">CET-345</a></td>
     <td> This is my final project's version control repo for CET 345. Thanks for checking it out!
 
-This project is a puzzle game taking place in a dystopian , scientific world. Mainly utilizing Portals. 😎</td>
+This project is a puzzle game taking place in a dystopian , scientific world. Mainly utilizing Time Manipulation. 😎</td>
   </tr>
 
 </table>

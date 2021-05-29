@@ -45,9 +45,8 @@ This project is a puzzle game taking place in a dystopian , scientific world. Ma
 </h1>
 
 <!--START_SECTION:activity-->
- ✨C#
- ✨Python
- ✨C++
- ✨SQL
+ -C#
+ -Python
+ -JavaScript
 <!--END_SECTION:activity-->
 

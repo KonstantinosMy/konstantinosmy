@@ -1,9 +1,9 @@
 <h1> Konstantinos Mylonas </h1>
 
 
-<p align="center"><b> <a> Currently studying Game Development @ Sunderland Univesity, UK 🌟 </a></b></p>
+<p align="center"><b> <a> Studied Game Development @ Sunderland Univesity, UK 🌟 </a></b></p>
 <p align="center"><b> <a> Love coming up with game ideas and bringing them to life 🕹 </a></b></p>
-<p align="center"><b> <a> Unity & C# are what I mostly use ⚙ </a></b></p>
+<p align="center"><b> <a> Full Stack Developer ⚙ </a></b></p>
 
 
 <p align="center">

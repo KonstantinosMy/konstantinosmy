@@ -4,16 +4,6 @@
 <p align="center"><b> <a> Studied Game Development @ Sunderland Univesity, UK 🌟 </a></b></p>
 <p align="center"><b> <a> Love coming up with game ideas and bringing them to life 🕹 </a></b></p>
 <p align="center"><b> <a> Full Stack Developer ⚙ </a></b></p>
-
-
-<p align="center">
-  <a href="https://www.youtube.com/channel/UCqSpmqjhILT3GrIRUngOBxg">
-    <img src="https://img.shields.io/youtube/channel/views/UCHmJzyRNyXVBhVh8_58FIVA?color=red&label=YouTube&style=for-the-badge" />
-  </a>
-  
-   <a href="https://github.com/KonstantinosMy/CET345-Final">
-    <img src="https://img.shields.io/github/last-commit/konstantinosmy/CET345-Final?color=blue&label=last%20commit%20github&style=for-the-badge" />
-  </a>
   
 
 

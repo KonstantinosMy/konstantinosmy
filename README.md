@@ -3,8 +3,9 @@
 <p width ="200px" align="center">
   <img  src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif" alt="Dino goes brr" />
 </p>
-
+<p style="text-align: center;">
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KonstantinosMy&theme=blue-green)
+</p>
 ```python
 #!/usr/bin/python
 class MylonasK:

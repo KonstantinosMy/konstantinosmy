@@ -11,7 +11,7 @@ class MylonasK:
     def __init__(self):
         self.name = "Mylonas Konstantinos"
         self.role = "Software Developer"
-        self.language_spoken = ["gr_GR", "en_US"]
+        self.language = ["gr_GR", "en_US"]
     def say_hello(self):
         print("Thank you for visiting my profile")
 me = MylonasK()
@@ -20,10 +20,10 @@ me.say_hello()
 ## Skills
 
 ### ⚙ OSs
-![]([https://img.shields.io/badge/Windows-0078D6.svg?logo=Windows&logoColor=black](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white))
-![]([https://img.shields.io/badge/Ubuntu-E95420.svg?logo=Ubuntu&logoColor=black](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black))
-![]([https://img.shields.io/badge/Kali-557C94.svg?logo=KaliLinux&logoColor=black](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white))
-![]([https://img.shields.io/badge/Kali-557C94.svg?logo=KaliLinux&logoColor=black](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white))
+![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ### 📝 Editors

@@ -1,4 +1,4 @@
-<h1> Konstantinos Mylonas </h1>
+<h1 align="center"> Konstantinos Mylonas </h1>
 
 <p align="center">
   <img  src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif" alt="Dino goes brr" />

@@ -10,7 +10,7 @@ class MylonasK:
         self.role = "Software Developer"
         self.language = ["gr_GR", "en_US"]
     def say_hello(self):
-        print("Thank you for visiting my profile")
+        print("Hi, thank you for visiting my profile")
 me = MylonasK()
 me.say_hello()
 ```

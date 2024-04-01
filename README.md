@@ -10,7 +10,8 @@ class Mylonas_Konstantinos:
         self.role = "Software Developer"
         self.language = ["gr_GR", "en_US"]
     def say_hello(self):
-        print("Hello and welcome to my GitHub page. I enjoy coding and creating, from a small microcontroller to a large-scale web service and everything in between.")
+        print("Hello and welcome to my GitHub page. I enjoy coding and creating,
+from a small microcontroller to a large-scale web service and everything in between.")
 me = Mylonas_Konstantinos()
 me.say_hello()
 ```

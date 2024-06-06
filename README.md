@@ -9,10 +9,13 @@ class Mylonas_Konstantinos:
         self.name = "Mylonas Konstantinos"
         self.role = "Software Developer"
         self.language = ["gr_GR", "en_US"]
+        self.hobbies = ["coding", "iot", "travelling"]
+
     def say_hello(self):
-        print("Hello and welcome to my GitHub page. I enjoy coding and creating,
-from a small microcontroller to a large-scale web service and everything in between.")
+        print("Hello, welcome to my GitHub profile. Coding is my passion, and I am enthusiastic about technology in all its forms.")
+
 me = Mylonas_Konstantinos()
+
 me.say_hello()
 ```
 ## Skills
